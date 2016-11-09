@@ -16,6 +16,8 @@ public class TestGit {
      */
     public static void main(String[] args) {
         System.out.println("Magnus har clonat Master, och nu på MangnusMangeBujhjje till mangeBujje");
+        
+        System.out.println("Bujamin äger Magnus elleer? ");
     }
     
 }
